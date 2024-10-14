@@ -37,10 +37,14 @@ To use the `Modules of c++`, simply clone the repository and compile it:
    git clone https://github.com/your-username/piscine-cpp-42.git
    cd piscine-cpp-42
    cd <Module>
-   make
   ```
 
 ## Usage
 
-I have implemented main for each exercises so you will only need to `./[tab]` to launch the project.
+I implemented mains for each exercices so it's really simple:
+
+   ```bash
+    cd <ex>
+    make
+   ```
 
