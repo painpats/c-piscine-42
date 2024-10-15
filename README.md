@@ -29,6 +29,19 @@ The C++ Pool is typically divided into several Modules, each focusing on differe
 4. **Algorithms**
    - Common algorithms for sorting and searching.
    - Time and space complexity analysis.
+  
+## Scores
+
+- `Module00`: 80%
+- `Module01`: 90%
+- `Module02`: 80%
+- `Module03`: 80%
+- `Module04`: 80%
+- `Module05`: 100%
+- `Module06`: 100%
+- `Module07`: 100%
+- `Module08`: 80%
+- `Module09`: 100%
 
 ## Installation
 
